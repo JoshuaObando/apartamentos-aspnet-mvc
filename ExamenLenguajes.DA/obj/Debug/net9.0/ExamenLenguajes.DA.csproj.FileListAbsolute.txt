@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.DA.deps.json
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.DA.runtimeconfig.json
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.DA.dll
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.DA.pdb
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.Model.dll
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\bin\Debug\net9.0\ExamenLenguajes.Model.pdb
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.AssemblyInfo.cs
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLe.78575BFA.Up2Date
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.dll
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\refint\ExamenLenguajes.DA.dll
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.pdb
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ExamenLenguajes.DA.genruntimeconfig.cache
+C:\Users\Home\source\repos\ExamenLenguajes\ExamenLenguajes.DA\obj\Debug\net9.0\ref\ExamenLenguajes.DA.dll
