@@ -1,0 +1,53 @@
+﻿@model IEnumerable<ExamenLenguajes.Model.Apartamentos>
+
+@{
+    ViewData["Title"] = "Apartamentos Alquilados";
+}
+
+<h1>Lista de apartamentos alquilados</h1>
+
+<form asp-action="Alquilados" method="get">
+    <p>
+        Nombre del inquilino:
+        <input type="text" name="inquilino" value="@Context.Request.Query["inquilino"]" />
+        <input type="submit" value="Filtrar" class="btn btn-sm btn-primary" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Estado)</th>
+            <th>@Html.DisplayNameFor(model => model.NumeroDePiso)</th>
+            <th>Nombre del Inquilino</th>
+            <th>Fecha de Inicio</th>
+            <th>Fecha Final</th>
+            <th>Depósito</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var fechaFinal = item.FechaInicioAlquiler?.AddMonths(item.CantidadDeMesesAlquiler ?? 0);
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Estado.ToString()</td>
+                <td>@item.NumeroDePiso</td>
+                <td>@item.NombreInquilino</td>
+                <td>@(item.FechaInicioAlquiler?.ToString("dd/MM/yyyy"))</td>
+                <td>@(fechaFinal?.ToString("dd/MM/yyyy"))</td>
+                <td>@item.DepositoDeGarantia</td>
+                <td>
+                    <a asp-action="DetalleAlquilados" asp-route-id="@item.Id">Detalle</a> |
+                    @if (item.Estado == ExamenLenguajes.Model.Estado.Alquilado)
+                    {
+                        <a asp-action="Devolver" asp-route-id="@item.Id">Devolver</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Home/source/repos/ExamenLenguajes/ExamenLenguajes.UI/Views/Apartamentos/Alquilados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRhbWVudG9zXEFscXVpbGFkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Home/source/repos/ExamenLenguajes/ExamenLenguajes.UI/Views/Apartamentos/Alquilar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRhbWVudG9zXEFscXVpbGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Home/source/repos/ExamenLenguajes/ExamenLenguajes.UI/Views/Apartamentos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRhbWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Home/source/repos/ExamenLenguajes/ExamenLenguajes.UI/Views/Apartamentos/DetalleAlquilados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRhbWVudG9zXERldGFsbGVBbHF1aWxhZG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Home/source/repos/ExamenLenguajes/ExamenLenguajes.UI/Views/Apartamentos/Edit.cshtml]

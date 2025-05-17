@@ -240,13 +240,33 @@ namespace ExamenLenguajes.UI.Controllers
         }
 
         // GET: Apartamentos/Alquilados
-        public async Task<IActionResult> Alquilados()
+
+        public async Task<IActionResult> Alquilados(string? inquilino)
         {
-            var alquilados = await _context.Apartamentos
-                .Where(a => a.Estado == Estado.Alquilado)
-                .ToListAsync();
-            return View("Index", alquilados);
+            var query = _context.Apartamentos
+                .Where(a => a.Estado == Estado.Alquilado);
+
+            if (!string.IsNullOrWhiteSpace(inquilino))
+            {
+                query = query.Where(a => a.NombreInquilino.Contains(inquilino));
+            }
+
+            var resultado = await query.ToListAsync();
+            return View(resultado);
         }
+
+        public async Task<IActionResult> DetalleAlquilados(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var apartamento = await _context.Apartamentos.FirstOrDefaultAsync(a => a.Id == id);
+            if (apartamento == null)
+                return NotFound();
+
+            return View(apartamento);
+        }
+
 
 
     }
