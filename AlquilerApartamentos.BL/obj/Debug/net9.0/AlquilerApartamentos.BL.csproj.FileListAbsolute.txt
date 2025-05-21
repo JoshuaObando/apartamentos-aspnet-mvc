@@ -1,0 +1,17 @@
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.BL.deps.json
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.BL.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.BL.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.DA.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.Model.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.DA.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\bin\Debug\net9.0\AlquilerApartamentos.Model.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.AssemblyInfo.cs
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\Alquiler.E46CD707.Up2Date
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\refint\AlquilerApartamentos.BL.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\AlquilerApartamentos.BL.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.BL\obj\Debug\net9.0\ref\AlquilerApartamentos.BL.dll

@@ -1,0 +1,11 @@
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\bin\Debug\net9.0\AlquilerApartamentos.Model.deps.json
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\bin\Debug\net9.0\AlquilerApartamentos.Model.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\bin\Debug\net9.0\AlquilerApartamentos.Model.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.AssemblyInfo.cs
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\refint\AlquilerApartamentos.Model.dll
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\AlquilerApartamentos.Model.pdb
+C:\Users\Home\Downloads\AlquilerApartamentos\AlquilerApartamentos.Model\obj\Debug\net9.0\ref\AlquilerApartamentos.Model.dll
